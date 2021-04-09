@@ -1,0 +1,18 @@
+:imagesdir: images/
+
+= RoboCup中国赛小型组2021年技术挑战赛规则
+{docdate}
+:toc:
+
+++++
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+++++
+
+
+:icons: font
+:numbered:
+
+include::2021/summary.adoc[]
+include::2021/1.adoc[]
+include::2021/2.adoc[]
+include::2021/3.adoc[]
