@@ -13,5 +13,3 @@ asciidoctor tc_rules.adoc
 # 编译PDF版本
 asciidoctor-pdf tc_rules.adoc
 ```
-
-> 原版规则为RoboCup国际赛规则，参照[Github Pages](https://robocup-ssl.github.io/ssl-rules/sslrules.html)
