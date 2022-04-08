@@ -1,0 +1,16 @@
+
+= RoboCup中国赛小型组2022年技术挑战赛规则
+{docdate}
+:toc:
+
+++++
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+++++
+
+:icons: font
+:numbered:
+
+include::2022/summary.adoc[]
+include::2022/1.adoc[]
+include::2022/2.adoc[]
+include::2022/3.adoc[]
