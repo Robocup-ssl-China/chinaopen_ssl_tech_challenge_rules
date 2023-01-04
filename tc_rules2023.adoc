@@ -1,0 +1,14 @@
+
+= RoboCup中国赛小型组2023年技术挑战赛规则
+{docdate}
+:toc:
+
+++++
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+++++
+
+:icons: font
+:numbered:
+
+// include::2023/summary.adoc[]
+include::2023/1.adoc[]
