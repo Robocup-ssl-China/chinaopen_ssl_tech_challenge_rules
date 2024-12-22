@@ -1,0 +1,10 @@
+= 2024年第八届浙江省大学生机器人竞赛-小型足球机器人技术挑战赛规则
+{docdate}
+
+:header_left: 浙江省大学生机器人竞赛
+:header_right: 小型足球机器人技术挑战赛规则
+
+:icons: font
+:numbered:
+
+include::zj2024/1.adoc[]

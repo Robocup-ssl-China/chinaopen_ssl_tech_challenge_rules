@@ -1,0 +1,16 @@
+= RoboCup中国公开赛小型组2024年技术挑战赛规则
+{docdate}
+
+:header_left: RoboCup中国公开赛小型组2024年技术挑战赛规则
+:header_right: 小型足球机器人技术挑战赛规则
+
+:icons: font
+:numbered:
+
+include::2024/summary.adoc[]
+
+include::2023/1.adoc[]
+
+include::2024/1.adoc[]
+
+// include::2022/3.adoc[]
