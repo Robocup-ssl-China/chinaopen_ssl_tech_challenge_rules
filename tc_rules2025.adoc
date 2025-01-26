@@ -1,7 +1,9 @@
-= RoboCup中国公开赛小型组2024年技术挑战赛规则
+:year: 2025
+:title: RoboCup中国公开赛小型组{year}年技术挑战赛规则
+= {title}
 {docdate}
 
-:header_left: RoboCup中国公开赛小型组2025年技术挑战赛规则
+:header_left: {title}
 :header_right: 小型足球机器人技术挑战赛规则
 
 :icons: font
